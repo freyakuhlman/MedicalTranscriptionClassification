@@ -11,7 +11,7 @@ This project includes data exploration of the dataset, a support vector machine 
 * The Medical Transcription dataset is required to run the notebooks. [Medical Transcription Dataset](https://www.kaggle.com/tboyle10/medicaltranscriptions)
 * TensorFlow, Pandas, Spacy, Seaborn, SciKit Learn, Numpy, Transformers and MatPlotLib must be installed before running the notebooks
 
-### List of iles
+### List of Files
 * baseline_model.ipynb - Implements the SVC support vector machine from SciKit Learn as a baseline model for classification.
 * medical_transcription_data_analysis.ipynb - Initial data exploration of the Medical Transcription dataset.
 * mtsamples.csv - The Medical Transcription dataset.
