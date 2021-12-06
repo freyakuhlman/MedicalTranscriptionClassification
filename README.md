@@ -12,11 +12,11 @@ This project includes data exploration of the dataset, a support vector machine 
 * TensorFlow, Pandas, Spacy, Seaborn, SciKit Learn, Numpy, Transformers and MatPlotLib must be installed before running the notebooks
 
 ### List of Files
+* FreyaGrayPresentation.pdf - slides used for presentation.
 * baseline_model.ipynb - Implements the SVC support vector machine from SciKit Learn as a baseline model for classification.
 * medical_transcription_data_analysis.ipynb - Initial data exploration of the Medical Transcription dataset.
 * mtsamples.csv - The Medical Transcription dataset.
 * roberta.ipynb - Implements RoBERTa as a pre-trained model for classification.
-* FreyaGrayPresentation.pdf - slides used for presentation.
 
 ## Authors
 Freya Gray
