@@ -1,4 +1,4 @@
-# MedicalTranscriptionClassification
+# Medical Transcription Classification
 This project attempts to classify the medical specialty of medical transcriptions. 
 
 ## Description
